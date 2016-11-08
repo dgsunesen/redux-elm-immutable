@@ -21,8 +21,8 @@ Then run
 
 `npm start`
 
-Open [http://localhost:3000](http://localhost:3000) in the browser.
-
+Open [http://localhost:3000/users](http://localhost:3000/users) in the browser to see list of user.
+Open [http://localhost:3000/addUser](http://localhost:3000/addUser) in the browser to add new user.
 
 ### Build application
 
