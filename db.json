@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "97d506ea-2782-4962-ab24-4250d2496e32",
+      "email": "test1@mail.com"
+    },
+    {
+      "id": "708584bf-aeb7-4966-9634-87ba49dd3cd1",
+      "email": "test2@mail.com"
+    },
+    {
+      "id": "0359be3c-22d8-46a8-90cc-4ed43736c057",
+      "email": "test3@mail.com"
+    },
+    {
+      "id": "3186fe78-0ce6-409a-b122-cfccf8ad6346",
+      "email": "test4@mail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
